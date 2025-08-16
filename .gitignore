@@ -1,0 +1,21 @@
+# virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# data artifacts
+data/
+!data/raw/
+!data/processed/
+
+# model artifacts (optional: keep versioned models you want in repo)
+models/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
