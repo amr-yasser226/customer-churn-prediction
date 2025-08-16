@@ -19,3 +19,6 @@ models/*.pkl
 
 # Jupyter
 .ipynb_checkpoints/
+
+
+structure.md
