@@ -22,3 +22,6 @@ models/*.pkl
 
 
 structure.md
+
+# Python packaging
+*.egg-info/
