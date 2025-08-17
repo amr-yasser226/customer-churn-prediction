@@ -1,0 +1,3 @@
+paths:
+  raw_data: "data/raw/telco_churn.csv"
+  processed_data: "data/processed"
